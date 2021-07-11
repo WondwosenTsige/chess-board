@@ -28,6 +28,7 @@ queens with any other coordinates should NOT be “under attack”
 
 ## Pull request
 
+[pull request](https://github.com/WondwosenTsige/chess-board/pull/1)
 
 ## Resources and Collaboration
 
